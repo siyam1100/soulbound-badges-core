@@ -1,0 +1,9 @@
+{
+  "name": "soulbound-badges-core",
+  "version": "1.0.0",
+  "description": "Non-transferable ERC-721 credentials",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
